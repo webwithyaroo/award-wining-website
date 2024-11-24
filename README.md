@@ -1,5 +1,4 @@
-<div align="center">
-
+<div>
 
   <img src="https://github.com/bgoonz/BGOONZ_BLOG_2.0/blob/master/images/logo-300x300.png" alt="Logo" width="80" height="80">
   <h3 align="center">An Awwwards Winning Website</h3>
