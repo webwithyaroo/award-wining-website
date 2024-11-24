@@ -1,6 +1,6 @@
 <div>
 
-  <img src="https://github.com/bgoonz/BGOONZ_BLOG_2.0/blob/master/images/logo-300x300.png" alt="Logo" width="80" height="80">
+  <h1 align="center">Yarex</h1>
   <h3 align="center">An Awwwards Winning Website</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
